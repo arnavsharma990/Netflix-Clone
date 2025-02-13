@@ -25,9 +25,6 @@ This project is a static replica of Netflix, focused on showcasing frontend desi
    ```
 3. Open the `index.html` file in your browser to view the clone.
 
-## Demo
-[Live Demo](#) (Add your GitHub Pages or live hosting link here)
-
 ## Contributing
 Contributions are welcome! If you’d like to improve this project:
 1. Fork the repository.
